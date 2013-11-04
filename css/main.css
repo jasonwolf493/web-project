@@ -1,0 +1,9 @@
+#wrapper{max-width:900px;margin:0 auto;}
+.odd{background-color:#C2D1FF;}
+.heading_odd{background-color:#4D4DFF; color:#FFFFFF;}
+h4{max-width:300px;}
+.table-heading{margin:0;padding-right:25px;border-bottom:1px solid black;}
+td p{margin:0;}
+table{border:1px solid black;border-collapse:collapse;}
+h1,h2{color:#4D4DFF;}
+h2{margin-top:55px;}
