@@ -1,7 +1,143 @@
-nav ul li{list-style-type:none; float:right; padding: 0px 15px;}
-nav{padding:0;margin:0;}
-nav,ul{padding:0;margin:0;}
-.container{max-width:996px; margin:0 auto;}
-.logo{margin:0; padding:0;}
-h2{margin-top:50px;}
-footer{margin-top:45px;}
+nav a:visited{color:FFFFFF;}
+nav a:link{
+	color: #FFFFFF;
+	text-decoration: none;}
+
+nav a:active{
+	color: #FFFFFF;}
+
+nav a:hover{
+	text-decoration: underline;
+	font-size: 1.05em;
+	text-shadow: 1px 1px 2px #000000;
+	color: #FFFFFF;
+}
+
+
+
+nav ul li{
+	color:#FFFFFF; 
+	list-style-type:none;
+	float:right;
+	padding: 0px 15px;
+	margin: 10px 0px;
+	}
+	
+	
+nav{
+	background-color: #FFFFFF;
+	padding: 0;
+	
+	/*border: 2px solid black;
+	border-top:0px;
+	border-bottom:0px;*/
+	}
+	
+	
+nav,ul{
+	padding: 0;
+	margin: 0;
+	}
+
+ul li{padding:40;}
+	
+.container{
+	max-width: 996px;
+	border-radius: 5px;
+	}
+	
+	
+.logo{
+	margin: 0px;
+	padding: 0px 10px;
+	background-color: #56b4f6;
+	}
+	
+	
+h1{
+	color: #FFFFFF;
+	/*border: 2px solid black;
+	border-top:0px;
+	border-bottom:0px;*/
+	}
+	
+	
+h2{
+	margin: 50px 0px 0px 0px;
+	color: #56b4f6;
+	background-color: #FFFFFF;
+	border-radius: 5px 5px 0px 0px;
+	padding: 10px;
+	/*border: 2px solid black;*/
+	}
+	
+	
+footer{
+	overflow:auto;
+	margin-top: 100px;
+	height: 75px;
+	/*background-color: #56b4f6;*/
+	text-align:right;
+	vertical-align:bottom;
+	color: black;
+	}
+	
+	
+footer,.copyright{
+	padding: 10px 20px 0px 0px;
+	}
+	
+	
+body{
+	/*background:url("../images/cloth_bg.png");*/
+	background-size:100% 100%;
+background-repeat:no-repeat;
+	background-color:#FFFFFF;
+	}
+
+
+article p{
+
+	color:#545454;
+	background-color: #FFFFFF;
+	border-radius: 0px 0px 5px 5px;
+	padding: 10px;
+	margin-top: 0px;
+	text-align:justify;
+	/*border: 2px solid black;
+	border-top:0px;
+	box-shadow:5px 5px 8px  #444444;
+	}*/
+	
+
+.content{
+	background-color: #FFFFFF;
+	border-radius: 0px 0px 5px 5px;
+	padding: 10px;
+	margin-top: 0px;
+	margin-bottom: 40px;
+	overflow:auto;
+	/*border: 2px solid black;
+	border-top:0px;
+	}
+	
+	.motto{
+border-radius: 0px 0px 5px 5px;
+border:2px solid black;
+border-top:0px;
+}*/
+
+
+
+
+	
+	p{color:#545454;}
+	
+	
+	
+	
+	
+	
+	
+	
+	
