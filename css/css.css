@@ -73,14 +73,15 @@ margin-right:300px;}
 .search{margin-right:0px;
 		margin-bottom:1px;}
 		
-form input{border-radius:5px;
-border:1px solid silver;
-color:silver;}
+.field{clear:;}
+.formtext{margin:5px 0px 5px 0px;}
+.form input{margin-bottom:10px;}
+select{margin-top:15px;}
+		
 
-form{float:right;
-	 margin-right:15px;
-	 margin-bottom:0px;
-	 margin-top:2px;}
+
+
+.cart{float:right; margin-bottom:30px;}
 
 nav ul li{
 	color:#FFFFFF; 
