@@ -22,7 +22,7 @@ margin-top:0px;
 	
 
 
-nav a:visited{color:FFFFFF;}
+nav a:visited{color:#FFFFFF;}
 nav a:link{
 	color: #FFFFFF;
 	font-family: 'Josefin Slab', serif;
@@ -73,7 +73,7 @@ margin-right:300px;}
 .search{margin-right:0px;
 		margin-bottom:1px;}
 		
-.field{clear:;}
+.field{}
 .formtext{margin:5px 0px 5px 0px;}
 .form input{margin-bottom:10px;}
 select{margin-top:15px;}
@@ -105,7 +105,7 @@ nav,ul{
 
 ul li{padding:40px;
 	  margin-left: 18px;
-	  text-align:bottom center;}
+	  text-align: center;}
 	
 .container{
 	max-width: 996px;
@@ -196,15 +196,7 @@ article p{
 	margin-top: 0px;
 	margin-bottom: 40px;
 	overflow:auto;
-	/*border: 2px solid black;
-	border-top:0px;
-	}
-	
-	.motto{
-border-radius: 0px 0px 5px 5px;
-border:2px solid black;
-border-top:0px;
-}*/
+}
 
 
 
