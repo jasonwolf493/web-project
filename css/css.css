@@ -136,7 +136,8 @@ ul li{padding:40px;
 	font-weight: 400;
 	text-decoration:none;}
 
-header{background-image: url(../images/header_bg.png);}
+header{background-image: url(../images/header_bg.png);
+		background-repeat:repeat-x;}
 	
 
 	
@@ -198,7 +199,7 @@ article p{
 	overflow:auto;
 }
 
-
+.cta{margin-top:40px;}
 
 
 	
@@ -209,9 +210,21 @@ p{
 	
 	
 	
+	.cart{margin-bottom:0px;}
 	
 	
-	
-	
+	@media screen and (max-width: 996px){
+*overflow:auto;
+		footer p{
+			text-align: left;
+		}
+		.logo, .motto{background-color:#259ef1;
+		width:97%;
+		float:right;
+		margin-top:0px;
+		margin-left:300px;}
+		nav ul li{background-color:#259ef1;}
+	}
+	h2, p{clear:both;}
 	
 	
